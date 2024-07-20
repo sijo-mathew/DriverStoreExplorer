@@ -93,7 +93,8 @@ namespace Rapr.Lang {
         ///    Managed DismApi Wrapper https://github.com/jeffkl/ManagedDism
         ///
         ///License:
-        ///    https://github.com/lostindark/DriverStoreExplorer/blob/m [rest of string was truncated]&quot;;.
+        ///    https://github.com/lostindark/DriverStoreExplorer/blob/master/LICENSE
+        ///.
         /// </summary>
         public static string About_Project_Description {
             get {
